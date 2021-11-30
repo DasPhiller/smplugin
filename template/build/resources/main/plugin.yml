@@ -1,5 +1,0 @@
-name: Smp
-main: de.smp.Main
-version: 1.0
-libraries:
-  - "net.axay:kspigot:VERSION"
