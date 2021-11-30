@@ -1,1 +1,1 @@
-C:\Users\phili\IdeaProjects\template\build\classes\kotlin\main\de\smp\Main.class
+C:\Users\phili\IdeaProjects\smpcode\build\classes\kotlin\main\de\smp\Main.class
